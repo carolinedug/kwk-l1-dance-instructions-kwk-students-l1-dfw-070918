@@ -26,4 +26,5 @@ puts "Lift your arms up and down in a loose bouncing movement, in time with the 
 end
 
 def lasso
+puts "Start arm movement by holding left arm so the back of your wrist is near your chin, pointing your left elbow straight left"
 puts 
