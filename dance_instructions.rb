@@ -15,12 +15,6 @@ puts "Bounce #{left} foot back up slightly, kicking it a few inches back"
 puts "#{left}, Right, #{left} and #{left}"
 end
 
-def skip_step_right
-puts "Lower right foot to the ground"
-puts "Bounce left foot back up slightly, kicking it a few inches back"
-puts "Right, Left, Right and Right"
-end
-
 def bob_the_reins
 puts "Holding your arms out in front of you, straight and at chest level"
 puts "Cross your right wrist over your left and hold them together"
