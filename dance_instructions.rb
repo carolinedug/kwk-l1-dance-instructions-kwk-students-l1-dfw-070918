@@ -21,4 +21,4 @@ end
 
 def bob_the_reins
 puts "Holding your arms out in front of you, straight and at chest level"
-puts 
+puts "Cross your right wrist over your left and hold them together"
