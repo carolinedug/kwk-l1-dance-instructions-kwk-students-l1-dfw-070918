@@ -20,4 +20,5 @@ puts "Right, Left, Right and Right"
 end
 
 def bob_the_reins
+puts "Holding your arms out in front of you, straight and at chest level"
 puts 
