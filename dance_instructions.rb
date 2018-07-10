@@ -30,6 +30,7 @@ puts "Raise right forearm so that it points straight up, and whip it in small ci
 end
 
 def bust_a_move
+  puts "Be cool and be snazzy"
 puts "Be cool"
 puts "Be snazzy!"
 end
