@@ -14,4 +14,4 @@ puts "Left, Right, Left and Left"
 end
 
 def skip_step_right
-puts 
+puts Lower right foot to the ground
